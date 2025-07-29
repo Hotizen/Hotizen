@@ -1,4 +1,4 @@
-<h1 align="center">Kshitij | Software Engineer</h1>
+<h1 align="center">Kshitij Patil | Software Engineer</h1>
 <p align="center">
   Focused on backend systems, intelligent automation, and precision engineering.
 </p>
@@ -10,9 +10,9 @@
 
 I’m an engineer who believes in building technology with clarity and purpose.
 
-I specialize in backend development, system design, and automation workflows. Currently building **Cane AI** — a privacy-first, local intelligent assistant that integrates voice control, contextual awareness, and symbolic logic.
+I specialize in backend development, system design, and automation workflows. Currently building **Cane AI**  a privacy-first, local intelligent assistant that integrates voice control, contextual awareness, and symbolic logic.
 
-I bring a hybrid focus — on engineering precision, user impact, and mission-driven execution. While preparing for AFCAT/CDS to serve as a combat pilot, I continue to explore and build at the edge of software systems.
+I bring a hybrid focus  on engineering precision, user impact, and mission-driven execution. While preparing for AFCAT/CDS to serve as a combat pilot, I continue to explore and build at the edge of software systems.
 
 ---
 
@@ -41,7 +41,6 @@ I bring a hybrid focus — on engineering precision, user impact, and mission-dr
 |--------|---------|--------------|
 | [**VoxUp**](https://github.com/Hotizen/VoxUp) | Voice-command UI layer for web interfaces, enabling hands-free interaction | JavaScript, Web Speech API, Firebase |
 | **Cane AI** | Local-first intelligent assistant integrating LLMs, voice control, and symbolic logic | Python, Node.js, LLaMA, Electron |
-| **Java DSA Notes** | Structured and annotated Java DSA problems and solutions with notes and visual examples | Java |
 | **Study Timer Overlay** | Minimal desktop tool to track study sessions with auto-pause, reminders, and visual logs | Python, Tkinter, WinAPI |
 
 ---
@@ -60,20 +59,12 @@ I bring a hybrid focus — on engineering precision, user impact, and mission-dr
 <!-- GitHub Metrics -->
 <!-- Requires: https://github.com/lowlighter/metrics -->
 
-<!-- Main Metrics -->
-<img align="center" width="100%" src="https://github.com/Hotizen/Hotizen/blob/main/metrics.svg" alt="Metrics">
-
-<!-- Language Usage -->
-<img align="center" width="100%" src="https://github.com/Hotizen/Hotizen/blob/main/metrics.languages.svg" alt="Languages">
-
-<!-- Habits: Commits, Stars, Repos -->
-<img align="center" width="100%" src="https://github.com/Hotizen/Hotizen/blob/main/metrics.habits.svg" alt="Commit Habits">
-
-<!-- Code Activity (Recent Coding Languages) -->
-<img align="center" width="100%" src="https://github.com/Hotizen/Hotizen/blob/main/metrics.code.svg" alt="Code Frequency">
-
-<!-- Repositories Overview -->
-<img align="center" width="100%" src="https://github.com/Hotizen/Hotizen/blob/main/metrics.repositories.svg" alt="Repositories Overview">
+<!-- GitHub Metrics -->
+<img align="center" width="100%" src="https://raw.githubusercontent.com/Hotizen/Hotizen/main/metrics.svg" alt="Metrics" />
+<img align="center" width="100%" src="https://raw.githubusercontent.com/Hotizen/Hotizen/main/metrics.languages.svg" alt="Languages" />
+<img align="center" width="100%" src="https://raw.githubusercontent.com/Hotizen/Hotizen/main/metrics.habits.svg" alt="Commit Habits" />
+<img align="center" width="100%" src="https://raw.githubusercontent.com/Hotizen/Hotizen/main/metrics.code.svg" alt="Code Frequency" />
+<img align="center" width="100%" src="https://raw.githubusercontent.com/Hotizen/Hotizen/main/metrics.repositories.svg" alt="Repositories Overview" />
 
 
 ---
