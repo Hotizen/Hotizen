@@ -57,21 +57,24 @@ I bring a hybrid focus — on engineering precision, user impact, and mission-dr
 ---
 
 <!-- METRICS SECTION -->
-## GitHub Metrics
+<!-- GitHub Metrics -->
+<!-- Requires: https://github.com/lowlighter/metrics -->
 
-<details>
-<summary>Click to expand</summary>
+<!-- Main Metrics -->
+<img align="center" width="100%" src="https://github.com/Hotizen/Hotizen/blob/main/metrics.svg" alt="Metrics">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hotizen&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide_rank=true" width="420" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hotizen&hide_title=true&theme=default" width="420" />
-</p>
+<!-- Language Usage -->
+<img align="center" width="100%" src="https://github.com/Hotizen/Hotizen/blob/main/metrics.languages.svg" alt="Languages">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hotizen/Hotizen/main/github-metrics.svg" width="100%" />
-</p>
+<!-- Habits: Commits, Stars, Repos -->
+<img align="center" width="100%" src="https://github.com/Hotizen/Hotizen/blob/main/metrics.habits.svg" alt="Commit Habits">
 
-</details>
+<!-- Code Activity (Recent Coding Languages) -->
+<img align="center" width="100%" src="https://github.com/Hotizen/Hotizen/blob/main/metrics.code.svg" alt="Code Frequency">
+
+<!-- Repositories Overview -->
+<img align="center" width="100%" src="https://github.com/Hotizen/Hotizen/blob/main/metrics.repositories.svg" alt="Repositories Overview">
+
 
 ---
 
