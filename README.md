@@ -60,6 +60,16 @@ I combine mission-driven execution with systems thinking. While preparing for AF
 
 ---
 
+## Contact
+
+<p align="center">
+  <a href="mailto:kshitijpatil.dev@gmail.com"><strong>Email</strong></a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/kshitijpatil-dev"><strong>LinkedIn</strong></a> &nbsp;|&nbsp;
+  <a href="https://github.com/Hotizen"><strong>GitHub</strong></a>
+</p>
+
+---
+
 <sub align="center">
 Maintained by Kshitij • Last updated: July 2025 • Engineering with purpose
 </sub>
