@@ -37,8 +37,7 @@ I combine mission-driven execution with systems thinking. While preparing for AF
 | Project | Summary | Technologies |
 |--------|---------|--------------|
 | [**VoxUp**](https://github.com/Hotizen/VoxUp) | Voice-command UI layer for hands-free web navigation | JavaScript, Web Speech API, Firebase |
-| **Cane AI** | Local-first intelligent assistant with LLMs, symbolic logic, and voice control | Python, FastAPI, Electron, LLaMA |
-| **Study Timer Overlay** | Desktop utility to track study sessions with auto-pause, analytics, and reminders | Python, Tkinter, WinAPI |
+
 
 ---
 
