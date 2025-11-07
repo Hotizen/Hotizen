@@ -36,7 +36,7 @@ I combine mission-driven execution with systems thinking. While preparing for AF
 
 | Project | Summary | Technologies |
 |--------|---------|--------------|
-| [**VoxUp**](https://github.com/Hotizen/VoxUp) | Voice-command UI layer for hands-free web navigation | JavaScript, Web Speech API, Firebase |
+| [**VoxUp**](https://github.com/Hotizen/VoxUp) | Voice-command UI layer for hands-free web navigation | JavaScript, Web Speech API, React |
 
 
 ---
