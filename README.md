@@ -53,7 +53,7 @@ I combine mission-driven execution with systems thinking. While preparing for AF
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hotizen&show_icons=true&theme=default" width="48%" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hotizen&layout=compact&theme=default" width="48%" />
 </p>
 
